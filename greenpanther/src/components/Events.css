@@ -1,0 +1,69 @@
+.card-img-top{
+    width: 100%;
+}
+.card-title,.card-text{
+    text-align: justify;
+}
+.event_date{
+    display: flex;
+    justify-content: space-between;
+}
+.location{
+    text-align: left;
+}
+.ticket_information{
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.card-img-top{
+    height: 300px;
+}
+.tab_headings{
+    justify-content: space-between;
+}
+.event_section{
+    padding-top: 70px;
+}
+.event_button{
+    background-color: #fff !important;
+    color: #000 !important;
+    
+}
+.nav-item .active1{
+    border-bottom: 3px solid blue;
+    border-radius: unset;
+    width: 150%;
+}
+.event_button1{
+    background-color: #fff !important;
+    color: #000 !important;
+}
+.event_button1:hover{
+    border-bottom: 3px solid blue;
+    border-radius: unset;
+    width: 150%;
+}
+.search_bar{
+    text-align: left;
+    padding: 20px 0px 20px 0px;
+}
+.search_icon{
+    position: absolute;
+    margin-top: 5.5px;
+    margin-left: 10px;
+    
+}
+.search_events{
+    border-radius: 20px;
+    width: 30%;
+}
+/* .search_events::placeholder{
+    padding-left: 20px;
+} */
+input{
+    padding-left: 40px !important;
+    
+}

@@ -1,0 +1,23 @@
+.login_modal{
+    margin-top: 12%;
+    max-width: 650px !important;
+}
+.Login_area{
+    display: grid;
+}
+.login_label{
+    text-align: left;
+}
+.error_display{
+    color: red;
+}
+.email_icon{
+    position: absolute;
+    margin-top: 26px;
+    margin-left: 10px;
+}
+.password_icon{
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 10px;
+}
